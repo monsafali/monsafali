@@ -17,15 +17,15 @@
 
 ##    About Me <img src="code.gif" height="28"/>
 
-I’m a Web & Mobile Developer passionate about building modern applications with clean design and smooth user experiences.
+I’m a Web & Mobile Developer passionate about building modern, scalable applications with clean design and great user experiences.
 
-My main focus is **React Native & Expo**, where I create cross-platform mobile applications with scalable UI and great performance.
+My main focus is Next.js full-stack development, working with PostgreSQL, Prisma, shadcn/ui, Clerk, Convex, and Supabase to build secure and scalable web applications.
 
-I also work with modern backend services like **Supabase, Convex, and Clerk** for authentication, databases, and application integrations.
+I also build backend systems and REST APIs using Node.js, Express.js, and MongoDB, while using Tailwind CSS to create responsive and modern interfaces.
 
-I enjoy exploring new technologies, solving real-world problems, and continuously improving my development skills.
+For mobile development, I work with React Native and Expo to build cross-platform applications with smooth and scalable user experiences. I also work with Firebase for authentication, databases, and application services.
 
-
+I enjoy solving real-world problems, building complete end-to-end solutions, exploring new technologies, and continuously improving my development skills.
 
 ## 🚀 Technologies & Tools
 
