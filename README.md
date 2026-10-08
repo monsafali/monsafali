@@ -1,64 +1,166 @@
 <p align="center">
-  <img src="github-header-banner.png" />
+  <img src="github-header-banner.png" alt="GitHub Header Banner" />
 </p>
-
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=React+Native+Developer;Building+Cross+Platform+Applications;Creating+Beautiful+User+Experiences;Working+With+Backend+Services;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Full-Stack+Web+%26+Mobile+Developer;MERN+%7C+Next.js+%7C+React+Native;Building+Real-World+Business+Applications;Developing+AI-Powered+Solutions;Creating+Scalable+APIs+%26+Systems;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-     width="300px"
-     align="right"
-     alt="Computer Illustration">
+<img
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+width="300px"
+align="right"
+alt="Computer Illustration"
+/>
 
 <br><br>
 
-##    About Me <img src="code.gif" height="28"/> 
+## 👨‍💻 About Me
 
-I’m a Web & Mobile Developer passionate about building modern applications with clean design and smooth user experiences.
+I'm a **Full-Stack Web & Mobile Developer** focused on building modern, scalable, and real-world applications.
 
-My main focus is **React Native & Expo**, where I create cross-platform mobile applications with scalable UI and great performance.
+My core stack includes **MERN, Next.js, React Native, and Expo**, with additional experience building backend services and APIs using **FastAPI**.
 
-I also work with modern backend services like **Supabase, Convex, and Clerk** for authentication, databases, and application integrations.
+I enjoy turning real-world problems into complete software solutions — from **authentication and business logic to APIs, databases, dashboards, payments, AI integrations, and deployment**.
 
-I enjoy exploring new technologies, solving real-world problems, and continuously improving my development skills.
+### 🚀 What I Build
 
+* 🌐 Full-Stack Web Applications
+* 📱 Cross-Platform Mobile Applications
+* 🏢 Business & Management Systems
+* 🤖 AI-Powered Applications
+* 🔐 Authentication & Role-Based Systems
+* 💳 Payment & Third-Party Integrations
+* 📊 Admin Dashboards & Analytics
+* ⚡ REST APIs & Backend Services
+* ☁️ Production Deployments
 
+I'm particularly interested in building **multi-tenant SaaS and business automation platforms** that can solve real problems for organizations and businesses.
 
-## 🚀 Technologies & Tools
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,html,css,tailwind,js,ts" />
 </p>
 
+### Backend
+
 <p align="center">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Convex-FF6B6B?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
+
+### Databases & ORM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" />
+</p>
+
+### Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,linux,vscode" />
+</p>
+
+### Other Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=socketio,firebase,supabase" />
+</p>
+
+---
+
+## 💡 Areas I Work In
+
+```text
+Full-Stack Development     ████████████████████
+Web Applications            ████████████████████
+Mobile Applications         ██████████████████
+Backend & APIs              ██████████████████
+Database Design             ████████████████
+AI Integration              ███████████████
+SaaS & Business Systems     ███████████████
+DevOps & Deployment         ████████████
+```
+
+---
+
+## 🚀 Featured Project
+
+### 🏢 E-Stamp Management System
+
+A real-world **full-stack business management platform** designed to digitize the e-stamp workflow.
+
+**Key Features:**
+
+* 🔐 JWT Authentication & Role-Based Access
+* 🔑 Google OAuth
+* 📧 Email OTP Verification
+* 💳 Stripe Payment Integration
+* ☁️ Cloudinary File Management
+* 🤖 AI-Powered Query & Pricing System
+* 💬 Real-Time Communication with Socket.IO
+* 📊 Analytics & Reporting
+* 🔍 Document Search & Management
+* ⚡ REST APIs
+* 🚀 Production Deployment
+
+**Tech Stack:**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `OpenAI` `JWT` `Stripe` `Cloudinary`
+
+---
+
+## 📚 Currently Learning & Improving
+
+* ⚡ Next.js & Full-Stack Architecture
+* 📱 React Native & Expo
+* 🐍 FastAPI & Python Backend Development
+* 🐘 PostgreSQL & Prisma
+* 🤖 AI & RAG Applications
+* 🏗️ Scalable Backend Architecture
+* ☁️ Cloud Deployment & DevOps
+* 🏢 Multi-Tenant SaaS Architecture
+
+---
+
+## 🎯 My Development Focus
+
+> **Build software that solves real problems, not just demo projects.**
+
+I'm interested in developing complete platforms that combine:
+
+**Web + Mobile + Backend + AI + Automation + Cloud**
+
+with a long-term focus on **multi-tenant SaaS and business automation solutions**.
+
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Amna-Coder404">
+
+  <a href="https://github.com/monsafali">
     <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amna-coder200/">
+
+   
+
+  <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
   </a>
+
 </p>
-
-
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
 
-<p align="center" style="margin-top: 30px;">
-  <img src="footer.svg?v=3" alt="Gabriel Ferreira Crimson Footer" width="100%" />
+<p align="center">
+  <img src="footer.svg?v=3" alt="Profile Footer" width="100%" />
 </p>
